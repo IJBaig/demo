@@ -25,4 +25,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IJBaig&icon=0&color=0)](https://visitcount.itsvg.in)
-![Snake Animation](https://github.com/IJBaig/Random-Empty/raw/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://github.com/IJBaig/Random-Empty/raw/main/github-contribution-grid-snake-dark.svg)
