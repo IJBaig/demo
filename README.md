@@ -1,8 +1,3 @@
-![Snake Animation](https://github.com/IJBaig/Random-Empty/raw/output/github-contribution-grid-snake-dark.svg)
-<br>
-
-
-
 # 💫 About Me:
 🔭 currently on developing a multithreaded kernel<br>👯 looking to collaborate on open source security tools and low level system projects<br>🤝 looking for help with kernel debugging, memory management, and thread scheduling<br>🌱 currently learning threat hunting and incident response<br>💬 Ask me about Linux internals, SOC workflows, malware analysis, and log forensics<br>⚡ Fun fact I automate Github Commit
 
@@ -21,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=IJBaig&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=IJBaig&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IJBaig&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Snake Animation](https://github.com/IJBaig/Random-Empty/raw/output/github-contribution-grid-snake-dark.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
