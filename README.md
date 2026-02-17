@@ -1,3 +1,8 @@
+![Snake Animation](https://github.com/IJBaig/Random-Empty/raw/output/github-contribution-grid-snake-dark.svg)
+<br>
+
+
+
 # 💫 About Me:
 🔭 currently on developing a multithreaded kernel<br>👯 looking to collaborate on open source security tools and low level system projects<br>🤝 looking for help with kernel debugging, memory management, and thread scheduling<br>🌱 currently learning threat hunting and incident response<br>💬 Ask me about Linux internals, SOC workflows, malware analysis, and log forensics<br>⚡ Fun fact I automate Github Commit
 
