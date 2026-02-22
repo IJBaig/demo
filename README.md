@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently on developing a multithreaded kernel<br>👯 looking to collaborate on open source security tools and low level system projects<br>🤝 looking for help with kernel debugging, memory management, and thread scheduling<br>🌱 currently learning threat hunting and incident response<br>💬 Ask me about Linux internals, SOC workflows, malware analysis, and log forensics<br>⚡ Fun fact I automate Github Commit
+🔭 currently developing a multithreaded kernel<br>👯 looking to collaborate on open source security tools and low level system projects<br>🤝 looking for help with kernel debugging, memory management, and thread scheduling<br>🌱 currently learning threat hunting and incident response<br>💬 Ask me about Linux internals, SOC workflows, malware analysis, and log forensics<br>⚡ Fun fact: I automate GitHub commits.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ij.baig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ij-baig) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IJ_Baig) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ijbaig53@gmail.com) 
