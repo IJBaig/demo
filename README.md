@@ -17,7 +17,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=IJBaig&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IJBaig&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## Languages
-[![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IJBaig&theme=dark&hide_border=false)](https://github.com/IJBaig)
+[![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IJBaig&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/IJBaig)
 
 
 ### ✍️ Random Dev Quote
